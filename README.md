@@ -1,6 +1,3 @@
-Hosting link:=>https://reactchatapp-7f43a.web.app/
-
-
 
 THis is React Chat App 
 Where user Can Send messages to our friend 
